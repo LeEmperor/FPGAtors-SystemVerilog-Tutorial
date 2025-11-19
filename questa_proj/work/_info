@@ -1,0 +1,79 @@
+m255
+K4
+z2
+!s12c _opt2
+Z0 !s99 nomlopt
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/wayne/FPGA/FinancialAccleration/FeedParser/questa_proj
+T_opt2
+!i145 1
+!i144 0
+!s110 1763526721
+VzbTRTA3l9OTZbMGS8R9z83
+04 8 4 work demo2_tb fast 0
+=3-d03957782a7d-691d4841-911fb-ade0
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt2
+OL;O;2025.2;82
+vdemo2
+2/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2.sv
+Z2 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z3 !s110 1763526707
+!i10b 1
+!s100 nROP[YD`8RDT>igK?Fl__2
+IO1RE?8ceUgk@KGQ4^A`220
+S1
+Z4 d/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/questa_proj
+w1763526527
+8/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2.sv
+F/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2.sv
+!i122 0
+L0 5 168
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z7 !s108 1763526707.000000
+!s107 /home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vdemo2_tb
+2/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2_tb.sv
+R2
+R3
+!i10b 1
+!s100 V][>bzVmff;T8nbdZXmmi1
+IJ3nNk_FZU@kJgUBjJIoD=2
+S1
+R4
+w1763526542
+8/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2_tb.sv
+F/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2_tb.sv
+!i122 1
+L0 7 91
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 /home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2_tb.sv|
+!i113 0
+R8
+R1

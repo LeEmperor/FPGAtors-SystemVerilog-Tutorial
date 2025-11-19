@@ -1,0 +1,17 @@
+/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2.sv {1 {vlog -work work -vopt -sv -stats=none /home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) '/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/questa_proj/demo.mpf' is used as the ini file.
+-- Compiling module demo2
+
+Top level modules:
+	demo2
+
+} {} {}} /home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2_tb.sv {1 {vlog -work work -vopt -sv -stats=none /home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/demo2_tb.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) '/home/wayne/FPGA/FPGAtors/FPGAtors-SystemVerilog-Tutorial/questa_proj/demo.mpf' is used as the ini file.
+-- Compiling module demo2_tb
+
+Top level modules:
+	demo2_tb
+
+} {} {}}
